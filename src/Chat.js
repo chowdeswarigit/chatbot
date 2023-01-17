@@ -24,8 +24,7 @@ class ChatBot extends Component{
         return(
 
             <div>
-                <h1>Hi</h1>
-                <h2>gj</h2>
+                
             </div>
         )
     }
