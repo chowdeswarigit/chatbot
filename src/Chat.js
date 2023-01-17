@@ -25,6 +25,7 @@ class ChatBot extends Component{
 
             <div>
                 <h1>Hi</h1>
+                <h2>gj</h2>
             </div>
         )
     }
